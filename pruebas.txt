@@ -1,0 +1,3 @@
+en el primer bloque de codigo hace que la ruta escriba un mensaje para que el puerto en el que se trabaja se verifique que si esta enrutado.
+en el segundo terminal se cambia el texto con el que se inicio el sevidor para saludar a quien le llega el mensaje, un texto que puede ser leido por las personas a quien les llegue el texto.
+en el tercer bloque cuando es llamado y da una respuesta diferente para hacer que se pueda utilizar con la comunidad en un futuro a corto plazo.
